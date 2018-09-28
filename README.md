@@ -4,6 +4,7 @@
 
 
 - 01.JavaScript 开发规范
+    - 01-1 JavaScript Language Specification(Ecma-262).pdf
 
 - 02.CSS 开发规范
 
