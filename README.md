@@ -13,5 +13,7 @@
 
 
 - 04.数据库开发规范
-    - 04-1 MySQL运维及开发规范.md
-    - 04-2 MySQL运维及开发规范(参考).docx
+    - 04-1 Oracle Database Administrator's Guide 12c.pdf
+    - 04-2 MySQL运维及开发规范.md
+    - 04-3 MySQL运维及开发规范(参考).docx
+    - 04-4 Redis开发规范.md
