@@ -1,5 +1,7 @@
 # 开发规范
 
+*Read this in other languages:[中文](README-cn.md).*
+
 搜集、整理常用开发规范
 
 
