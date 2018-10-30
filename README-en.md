@@ -2,7 +2,7 @@
 
 *Read this in other languages:[中文](README-cn.md).*
 
-搜集、整理常用开发规范
+# English version readme file is building
 
 
 - 01.JavaScript 开发规范
