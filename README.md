@@ -12,7 +12,7 @@
         * JavaScript Language Specification(Ecma-262).pdf
     * 03.[Java 开发规范](/03.Java)
         * [阿里Java编码规范.pdf](/03.Java)
-    * 04.[Excel-vba 开发规范](/03.Java/阿里Java编码规范.pdf)
+    * 04.[Excel-vba 开发规范](/03.Java/阿里Java编码规范.pdf){:target="_blank"}
         * 09.Excel-vba开发规范.pdf
     * 09.[数据库开发规范](/90.DB)
         * Oracle Database Administrator's Guide 12c.pdf
