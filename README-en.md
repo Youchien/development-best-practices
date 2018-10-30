@@ -2,7 +2,7 @@
 
 *Read this in other languages:[中文](README.md).*
 
-# English version readme file is building
+# English version readme file is building.......
 
 ## 目录
 
@@ -10,18 +10,18 @@
 2. [Profile Info.](#profile)
 3. [Directory Tree](#directory)
     * 01.[HTML&CSS Specification](/01.HTML&CSS)
-        * [HTML&CSS Language Specification.pdf](/01.HTML&CSS/HTML&CSS-开发规范.pdf)
+        * [HTML&CSS Language Specification.pdf](/01.HTML&CSS)
     * 02.[JavaScript Specification](/02.JavaScript)
-        * [JavaScript Language Specification 2018 Edition(Ecma-262).pdf](/02.JavaScript/JavaScript-语言标准-2018 Edition(Ecma-262).pdf)
+        * [JavaScript Language Specification 2018 Edition(Ecma-262).pdf](/02.JavaScript)
     * 03.[Java Specification](/03.Java)
-        * [Alibaba Java Coding Guideline.pdf](/03.Java/阿里Java编码规范.pdf)
+        * [Alibaba Java Coding Guideline.pdf](/03.Java)
     * 04.[Excel-vba Specification](/04.Excel-vba)
-        * [Excel-vba Language Specification.pdf](/04.Excel-vba/Excel-vba-开发规范.pdf)
+        * [Excel-vba Language Specification.pdf](/04.Excel-vba)
     * 90.[Database Specification](/90.DB)
-        * [Oracle Database Administrator's Guide 12c.pdf](/90.DB/Oracle-DBA-指导规范-12c.pdf)
-        * [MySQL Design Specification.pdf](/90.DB/MySQL数据库设计规范.pdf)
-        * [MySQL Maintenace and Development Specification.pdf](/90.DB/MySQL运维及开发规范.pdf)
-        * [Redis Development Specification.pdf](/90.DB/Redis开发规范.pdf)
+        * [Oracle Database Administrator's Guide 12c.pdf](/90.DB)
+        * [MySQL Design Specification.pdf](/90.DB)
+        * [MySQL Maintenace and Development Specification.pdf](/90.DB)
+        * [Redis Development Specification.pdf](/90.DB)
 
 <a name="intro"></a>
 ## Standard Introduce
