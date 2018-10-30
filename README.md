@@ -1,6 +1,6 @@
 # 开发规范
 
-*阅读本文的其他语言版本:[English](README.md).*
+*阅读本文的其他语言版本：[English](README-en.md)。*
 
 ## 目录
 
@@ -34,7 +34,7 @@
 <a name="profile"></a>
 ## 基本信息
 
-规范名称 | Developer-Specification
+规范名称 | Development-Specification
 --------|------|
 当前版本 | v1.0 Beta
 规范发起 | [bluetata(@bluetata)](https://blog.csdn.net/dietime1943)

@@ -1,10 +1,10 @@
-# 开发规范
+# Development-Specification
 
-*Read this in other languages:[中文](README.md).*
+*Read this in other languages: [中文](README.md).*
 
 # English version readme file is building.......
 
-## 目录
+## Catalogue
 
 1. [Standard Introduce](#intro)
 2. [Profile Info.](#profile)
@@ -36,9 +36,9 @@
 <a name="profile"></a>
 ## Profile Info.
 
-规范名称 | Development-Specification
+Specification Name | Development-Specification
 --------|------|
-当前版本 | v1.0 Beta
-规范发起 | [bluetata(@bluetata)](https://blog.csdn.net/dietime1943)
-参与人群 |  
-最后更新 | 2018.10.30
+Current Revision | v1.0 Beta
+Initiator | [bluetata(@bluetata)](https://blog.csdn.net/dietime1943)
+Contributors |  
+Date last updated | 2018.10.30
