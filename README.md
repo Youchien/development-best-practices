@@ -1,24 +1,25 @@
 # 开发规范
 
 *阅读本文的其他语言版本:[English](README.md).*
+
 ## 目录
 
 1. [规范概述](#intro)
 2. [基本信息](#profile)
 3. [目录结构](#directory)
-    * 01.[HTML & CSS 开发规范](/01.HTML&CSS)
-        * HTML/CSS开发规范.md
+    * 01.[HTML&CSS 开发规范](/01.HTML&CSS)
+        * [HTML&CSS 开发规范.pdf](01.HTML&CSS/HTML&CSS 开发规范.pdf)
     * 02.[JavaScript 开发规范](/02.JavaScript)
-        * JavaScript Language Specification(Ecma-262).pdf
+        * [JavaScript 语言标准 2018 Edition(Ecma-262).pdf](02.JavaScript/JavaScript 语言标准 2018 Edition(Ecma-262).pdf)
     * 03.[Java 开发规范](/03.Java)
         * [阿里Java编码规范.pdf](/03.Java/阿里Java编码规范.pdf)
     * 04.[Excel-vba 开发规范](/04.Excel-vba)
-        * 09.Excel-vba开发规范.pdf
-    * 09.[数据库开发规范](/90.DB)
-        * Oracle Database Administrator's Guide 12c.pdf
-        * MySQL运维及开发规范.md
-        * MySQL运维及开发规范(参考).docx
-        * Redis开发规范.md
+        * [Excel-vba 开发规范.pdf](04.Excel-vba/Excel-vba 开发规范.pdf)
+    * 90.[数据库开发规范](/90.DB)
+        * [Oracle DBA 指导规范 12c.pdf](90.DB/Oracle DBA 指导规范 12c.pdf)
+        * [MySQL数据库设计规范.pdf](90.DB/MySQL数据库设计规范.pdf)
+        * [MySQL运维及开发规范.pdf](90.DB/MySQL运维及开发规范.pdf)
+        * [Redis开发规范.pdf](90.DB/Redis开发规范.pdf)
 
 <a name="intro"></a>
 ## 规范概述
