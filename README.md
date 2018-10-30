@@ -6,12 +6,12 @@
 1. [规范概述](#intro)
 2. [基本信息](#profile)
 3. [目录结构](#directory)
-    * 01.[HTML & CSS 开发规范](/01.HTML & CSS)
+    * 01.[HTML & CSS 开发规范](/01.HTML&CSS)
         * HTML/CSS开发规范.md
     * 02.[JavaScript 开发规范](/02.JavaScript)
         * JavaScript Language Specification(Ecma-262).pdf
     * 03.[Java 开发规范](/03.Java)
-        * [阿里Java编码规范.pdf](/03.Java/阿里Java编码规范.pdf target="_blank)
+        * [阿里Java编码规范.pdf](/03.Java/阿里Java编码规范.pdf)
     * 04.[Excel-vba 开发规范](/04.Excel-vba)
         * 09.Excel-vba开发规范.pdf
     * 09.[数据库开发规范](/90.DB)
