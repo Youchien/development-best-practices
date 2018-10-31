@@ -7,19 +7,19 @@
 1. [Standard Introduce](#intro)
 2. [Profile Info.](#profile)
 3. [Directory Tree](#directory)
-    * 01.[HTML&CSS Specification](/01.HTML&CSS)
-        * [HTML&CSS Language Specification.pdf](/01.HTML&CSS)
+    * 01.[HTML&CSS Specification](/project/01.HTML&CSS)
+        * [HTML&CSS Language Specification.pdf](/project/01.HTML&CSS)
     * 02.[JavaScript Specification](/02.JavaScript)
-        * [JavaScript Language Specification 2018 Edition(Ecma-262).pdf](/02.JavaScript)
-    * 03.[Java Specification](/03.Java)
-        * [Alibaba Java Coding Guideline.pdf](/03.Java)
-    * 04.[Excel-vba Specification](/04.Excel-vba)
-        * [Excel-vba Language Specification.pdf](/04.Excel-vba)
-    * 90.[Database Specification](/90.DB)
-        * [Oracle Database Administrator's Guide 12c.pdf](/90.DB)
-        * [MySQL Design Specification.pdf](/90.DB)
-        * [MySQL Maintenace and Development Specification.pdf](/90.DB)
-        * [Redis Development Specification.pdf](/90.DB)
+        * [JavaScript Language Specification 2018 Edition(Ecma-262).pdf](/project/02.JavaScript)
+    * 03.[Java Specification](/project/03.Java)
+        * [Alibaba Java Coding Guideline.pdf](/project/03.Java)
+    * 04.[Excel-vba Specification](/project/04.Excel-vba)
+        * [Excel-vba Language Specification.pdf](/project/04.Excel-vba)
+    * 90.[Database Specification](/project/90.DB)
+        * [Oracle Database Administrator's Guide 12c.pdf](/project/90.DB)
+        * [MySQL Design Specification.pdf](/project/90.DB)
+        * [MySQL Maintenace and Development Specification.pdf](/project/90.DB)
+        * [Redis Development Specification.pdf](/project/90.DB)
 4. [Contribution](#contribution)
 
 
@@ -49,5 +49,5 @@ Date last updated | 2018.10.31
 
 1. Clone and Fork the repository
 2. If you wangt to improve the repo. at first you can modify the `.md` file in the **doc/source/** directory, after you should generate a `.pdf` file by same plug-in. eg: `markdown-pdf` in Atom IDE
-3. Copy the `.pdf` file and paste it into the project directory
+3. Copy the `.pdf` file and paste it into the **/project/** directory
 4. Commits your changes and open a PR
