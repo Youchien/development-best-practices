@@ -21,6 +21,8 @@
         * [MySQL运维及开发规范.pdf](/90.DB)
         * [Redis开发规范.pdf](/90.DB)
 
+4. [参与贡献](#maintenace)
+
 <a name="intro"></a>
 ## 规范概述
 
@@ -39,4 +41,13 @@
 当前版本 | v1.0 Beta
 规范发起 | [bluetata(@bluetata)](https://blog.csdn.net/dietime1943)
 参与人群 |  
-最后更新 | 2018.10.30
+最后更新 | 2018.10.31
+
+<a name="maintenace"></a>
+## 参与贡献
+
+1. Fork 本项目
+2. 修改 **doc/source/** 文件夹下的.`md`文件, 修正更改后，利用markdown-pdf 等插件转换.md文件到.pdf
+3. 剪切所转换生成的.pdf文件，粘贴并替换掉具体的specificaiton文件夹下的.pdf文件
+3. 提交代码
+4. 新建 Pull Request
