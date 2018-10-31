@@ -21,7 +21,8 @@
 	- [Constants](#constants)
 - [API Declaration](#api-declaration)
 	- [Use unique alias names](#use-unique-alias-names)
-- [Form, Class & Module Naming](#form-class-and-module-naming)
+- [Form, Class, Module & Project Naming](#form-class-and-module-naming)
+    - [Project Naming](#project-naming)
 	- [Internal Naming](#internal-naming)
 	- [File naming](#file-naming)
 	- [Object instance naming](#object-instance-naming)
@@ -59,7 +60,7 @@ Always use Option Explicit as the first line in every code module. To switch thi
 ## Parameters <a name="parameters-by-val"></a>
 
 Avoid confusion over ByVal and ByRef. Be aware of the default for parameters being ByRef. Be explicit when passing parameters.
- 
+
 Example:
 ```
 Public Sub Load(ByVal strName As String, ByVal strPhone As String)
@@ -92,18 +93,18 @@ Variants may be used where appropriate (e.g. to hold arrays returned by a functi
 
 Where dates are displayed to users you should avoid ambiguous formats where either years or days vs. months might be confused (such as DD/MM/YY), however the ultimate decision maker on this issue is the customer.
 
-Where dates are being handled “behind the scenes” care should be taken to avoid UK/US format confusion.  Particular care should be taken when including UK-format dates in literal SQL strings (where the target Microsoft application may expect dates to be in US format).  Where there is the slightest possibility of doubt pass the year, month and day parts separately into DateSerial, of format them in the universally acceptable ISO format YYYY-MM-DD. 
+Where dates are being handled “behind the scenes” care should be taken to avoid UK/US format confusion.  Particular care should be taken when including UK-format dates in literal SQL strings (where the target Microsoft application may expect dates to be in US format).  Where there is the slightest possibility of doubt pass the year, month and day parts separately into DateSerial, of format them in the universally acceptable ISO format YYYY-MM-DD.
 
 # General Naming Conventions <a name="general-naming-conventions"></a>
 
 ## General <a name="general-naming"></a>
 
-Object names are made up of four parts: 
+Object names are made up of four parts:
 prefix
 tag
 base name
 qualifier
-The four parts are assembled as follows:	
+The four parts are assembled as follows:
 [prefixes]tag[BaseName][Qualifier]
 Note: The brackets denote that these components are optional and are not part of the name.
 
@@ -166,7 +167,7 @@ Dim astrMonths(1 To 12) as String
 
 ## Constants <a name="constants"></a>
 
-Each word must be capitalised and the words separated with an underscore.  The base name must be a description of what the constant represents. 
+Each word must be capitalised and the words separated with an underscore.  The base name must be a description of what the constant represents.
 
 Example:
 ```
@@ -193,7 +194,15 @@ Declare smg_GetActiveWindow Lib "Kernel" Alias _
 	"GetActiveWindo" () As Integer
 ```
 
-# Form, Class & Module Naming <a name="form-class-and-module-naming"></a>
+# Form, Class, Module & Project Naming <a name="form-class-and-module-naming"></a>
+
+## Project Naming <a name="project-naming"></a>
+Project Names must begin with a letter and can include up to 40 characters (letters, numbers and underscores)
+
+The programmer can choose the name
+
+The default name for a project is VBAProject followed by the filename of the object in brackets
+
 
 ## Internal Naming <a name="internal-naming"></a>
 
@@ -214,11 +223,11 @@ Declare smg_GetActiveWindow Lib "Kernel" Alias _
 
 | Module Type | Prefix | Example
 | --- | --- | --- |
-| Form | frm | frmLogon.frm | 
-| Standard module | mod | modUtilities.bas | 
-| Class module | C | CPerson.cls | 
-| Collection class | C | CPersons.cls1 | 
-| Interface class | I | IPerson.cls | 
+| Form | frm | frmLogon.frm |
+| Standard module | mod | modUtilities.bas |
+| Class module | C | CPerson.cls |
+| Collection class | C | CPersons.cls1 |
+| Interface class | I | IPerson.cls |
 
 ## Object instance naming <a name="object-instance-naming"></a>
 
@@ -350,7 +359,7 @@ The following is a suggested naming convention for use with MS Access objects �
 | Query (append) | qapp | qappNewProduct |
 | Query (crosstab) | qxtb | qxtbRegionSales |
 | Query (delete) | qdel | qdelOldAccount |
-| Query (make table) | qmak | qmakShipTo | 
+| Query (make table) | qmak | qmakShipTo |
 | Query (update) | qupd | qupdDiscount |
 | Form | frm | frmCustomer |
 | Form (dialog) | fdlg | fdlgLogin |
@@ -421,7 +430,7 @@ Example:
 Dim strLookUp as String 'Accepts value from user to search for
 ```
 - Comments for individual lines appear above, or of the code to which they refer.
-- The functional overview comment of a procedure may be indented one space to aid readability. 
+- The functional overview comment of a procedure may be indented one space to aid readability.
 
 Example:
 ```
@@ -433,7 +442,7 @@ End Sub
 
 ## Commenting code when doing maintenance work <a name="commenting-code-when-doing-maintenance-work"></a>
 
-Avoid over-commenting code when doing maintenance work.  Bear in mind the need to maintain overall clarity in the code, and remember that revision history should be taken care of by SourceSafe 
+Avoid over-commenting code when doing maintenance work.  Bear in mind the need to maintain overall clarity in the code, and remember that revision history should be taken care of by SourceSafe
 Make sure that any existing comments still make sense **after** you’ve made your changes - paying particular attention to any comments/explanations in the header of the routine.
 You are responsible for ensuring that **all** existing comments remain accurate (and that they still make sense) after your changes have been implemented.
 Although SourceSafe controls the history, It is handy to future users if new blocks of code are commented with the date, initials of developer and the CR number to aim future developers reading the code.
