@@ -2,8 +2,6 @@
 
 *Read this in other languages: [中文](README.md).*
 
-# English version readme file is building.......
-
 ## Catalogue
 
 1. [Standard Introduce](#intro)
@@ -22,16 +20,19 @@
         * [MySQL Design Specification.pdf](/90.DB)
         * [MySQL Maintenace and Development Specification.pdf](/90.DB)
         * [Redis Development Specification.pdf](/90.DB)
+4. [Contribution](#contribution)
+
 
 <a name="intro"></a>
-## Standard Introduce
+## Guideline Introduce
 
-规范的制定是我们长期以来对工作的积累与沉淀的产物，帮助我们更快、更好、更高效的完成繁重、复杂、多样化的任务，我们制作规范的主要目的在于：
+The formulation of specification is the product of the accumulation and precipitation of our work for a long time,It helps us to accomplish heavy, complex and diverse tasks faster, better and more efficiently.
+The main purpose of our specifications is to:
 
-* 降低每个组员介入项目的门槛成本；
-* 提高工作效率及协同开发的便捷性；
-* 高度统一的代码风格；
-* 以开发guideline为base，来帮助开发人员快速做出高质量的符合要求的软件产品。
+* Reduce the threshold cost of intervention for each team member;
+* Improve work efficiency and the convenience of collaborative development;
+* Highly uniform code style;
+* The guideline is used as base to help developers quickly make high-quality software products that meet the requirements.
 
 <a name="profile"></a>
 ## Profile Info.
@@ -41,4 +42,12 @@ Specification Name | Development-Specification
 Current Revision | v1.0 Beta
 Initiator | [bluetata(@bluetata)](https://blog.csdn.net/dietime1943)
 Contributors |  
-Date last updated | 2018.10.30
+Date last updated | 2018.10.31
+
+<a name="contribution"></a>
+## Contribution
+
+1. Clone and Fork the repository
+2. If you wangt to improve the repo. at first you can modify the `.md` file in the **doc/source/** directory, after you should generate a `.pdf` file by same plug-in. eg: `markdown-pdf` in Atom IDE
+3. Copy the `.pdf` file and paste it into the project directory
+4. Commits your changes and open a PR
