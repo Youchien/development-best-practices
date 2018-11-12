@@ -1,6 +1,6 @@
 # VBA Coding Standards
 
-<!-- TOC depthFrom:2 -->
+*The md document is derived from：[spences10/VBA-Coding-Standards](https://github.com/spences10/VBA-Coding-Standards).*
 
 - [General Advice](#general-advice)
 - [Parameters](#parameters-by-val)
@@ -84,7 +84,7 @@ Pass by Value example:
 Public Sub Load(ByVal strName As String, ByVal strPhone As String)
 ```
 
-## General errors <a name="parameters"></a>
+## General errors <a name="general-errors"></a>
 
 Error handling must be used wherever practicable i.e. within each procedure.
 Use On Error Goto ErrHandler
@@ -92,7 +92,7 @@ Handle errors where they occur. This may involve handling the error and raising 
 
 # Variables <a name="variables"></a>
 
-## General <a name="general-errors"></a>
+## General <a name="general"></a>
 Where global variables are used, they must all be defined in one module.
 
 ## Declaring <a name="declaring"></a>
