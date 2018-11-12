@@ -1,4 +1,4 @@
-# VBA Code Guidelines
+# VBA Coding Standards
 
 <!-- TOC depthFrom:2 -->
 
@@ -60,9 +60,27 @@ Always use Option Explicit as the first line in every code module. To switch thi
 ## Parameters <a name="parameters-by-val"></a>
 
 Avoid confusion over ByVal and ByRef. Be aware of the default for parameters being ByRef. Be explicit when passing parameters.
+- [Force] Only use ByRef where you intend to modify the parameter and pass the change back to the Caller.
+- [Force] Pass parameter ByVal if they are not to be changes
+- [Suggest] Explicitly use ByRef in an input parameter is to be changed, but watch for signs to redesign.
 
-Example:
+Pass by Reference example:
+```VBA
+Private Sub ChangeRefValue()
+    Dim intX As Integer
+    intX = 1
+    Debug.Print intX
+
+    Call ChangeValueByRef(intX)
+End Sub
+
+Sub ChangeValueByRef(ByRef intY As Integer)
+    intY = intY + 5
+End Sub
 ```
+
+Pass by Value example:
+```VBA
 Public Sub Load(ByVal strName As String, ByVal strPhone As String)
 ```
 
