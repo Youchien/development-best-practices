@@ -1,4 +1,4 @@
-# 软件开发标准列表
+# 软件开发约定规范
 
 *阅读本文的其他语言版本：[English](README-en.md)。*
 
@@ -18,29 +18,29 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 * [数据库 开发规范](#数据库)
 
 
-### Excel-vba 开发规范
+### Excel-vba
 
 * [Excel-vba 开发规范.pdf](/project/04.Excel-vba)
 * [Excel-vba 开发规范.md](/doc/source/Excel-vba%20Language%20Specification.md)
 
 
-### HTML&CSS 开发规范
+### HTML&CSS
 
 * [HTML&CSS 开发规范](/doc/source/HTML&CSS%20Language%20Specification.md)
 * [HTML&CSS 开发规范](/project/01.HTML&CSS) (PDF)
 
 
-### Java 开发规范
+### Java
 
 * [阿里Java编码规范](/project/03.Java) (PDF)
 
 
-### JavaScript 开发规范
+### JavaScript
 
 * [JavaScript 语言标准 2018 Edition(Ecma-262)](/project/02.JavaScript) (English version) (PDF)
 
 
-### 数据库 开发规范
+### 数据库
 
 * [Oracle DBA 指导规范 12c](/project/90.DB) (PDF)
 * [MySQL数据库设计规范](/project/90.DB) (PDF)
