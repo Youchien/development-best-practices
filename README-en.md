@@ -1,4 +1,4 @@
-# Development-Specification
+# Development-Best-Practices
 
 *Read this in other languages: [中文](README.md).*
 
@@ -7,17 +7,17 @@
 1. [Standard Introduce](#intro)
 2. [Profile Info.](#profile)
 3. [Directory Tree](#directory)
-    * 01.[HTML&CSS Specification](/project/01.HTML&CSS)
+    * 01.[HTML&CSS Best Practices](/project/01.HTML&CSS)
         * [HTML&CSS Language Specification.pdf](/project/01.HTML&CSS)
         * [HTML&CSS Language Specification.md](/doc/source/HTML&CSS%20Language%20Specification.md)
-    * 02.[JavaScript Specification](/02.JavaScript)
+    * 02.[JavaScript Best Practices](/02.JavaScript)
         * [JavaScript Language Specification 2018 Edition(Ecma-262).pdf](/project/02.JavaScript)
-    * 03.[Java Specification](/project/03.Java)
+    * 03.[Java Best Practices](/project/03.Java)
         * [Alibaba Java Coding Guideline.pdf](/project/03.Java)
-    * 04.[Excel-vba Specification](/project/04.Excel-vba)
+    * 04.[Excel-vba Best Practices](/project/04.Excel-vba)
         * [Excel-vba Language Specification.pdf](/project/04.Excel-vba)
         * [Excel-vba Language Specification.md](/doc/source/Excel-vba%20Language%20Specification.md)
-    * 90.[Database Specification](/project/90.DB)
+    * 90.[Database Best Practices](/project/90.DB)
         * [Oracle Database Administrator's Guide 12c.pdf](/project/90.DB)
         * [MySQL Design Specification.pdf](/project/90.DB)
         * [MySQL Maintenace and Development Specification.pdf](/project/90.DB)
