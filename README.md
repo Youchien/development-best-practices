@@ -10,27 +10,37 @@
 请参照 [参与贡献](/CONTRIBUTING.md). 如果你刚刚加入GitHub请阅读 [Welcome](/HOWTO.md)!
 
 ## 目录
+* [BI](#BI)
+  * [SSRS](#SSRS)
+* [Excel-vba 开发规约](#Excel-vba)
+* [HTML&CSS 开发规约](#HTMLCSS)
+* [Java 开发规约](#Java)
+* [JavaScript 开发规约](#JavaScript)
+* [数据库 开发规约](#数据库)
 
-* [Excel-vba 开发规范](#Excel-vba)
-* [HTML&CSS 开发规范](#HTMLCSS)
-* [Java 开发规范](#Java)
-* [JavaScript 开发规范](#JavaScript)
-* [数据库 开发规范](#数据库)
+
+### BI
+
+
+#### SSRS
+
+  * [SQL Server Reporting Services Best Practices for Performance and Maintenance](/doc/source/BI/SSRS%20Specification-Performance&Maintenance.md) (English version)
+  * [SQL Server Reporting Services Best Practices for Report Design](/doc/source/BI/SSRS%20Specification-Report%20Design.md) (English version)
 
 
 ### Excel-vba
 
-* [Excel-vba 开发规范](/doc/source/Database/Excel-vba%20Language%20Specification.md)
+* [Excel-vba 开发规约](/doc/source/Database/Excel-vba%20Language%20Specification.md)
 
 
 ### HTML&CSS
 
-* [HTML&CSS 开发规范](/doc/source/HTML&CSS/HTML&CSS%20Language%20Specification.md)
+* [HTML&CSS 开发规约](/doc/source/HTML&CSS/HTML&CSS%20Language%20Specification.md)
 
 
 ### Java
 
-* [阿里Java编码规范](/doc/source/Java) (PDF)
+* [阿里Java编码规约](/doc/source/Java) (PDF)
 
 
 ### JavaScript
