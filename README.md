@@ -7,7 +7,7 @@
 
 ### 如何参与贡献
 
-Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome](/HOWTO.md)!
+请参照 [参与贡献](/CONTRIBUTING.md). 如果你刚加入GitHub请阅读 [welcome](/HOWTO.md)!
 
 ## 目录
 
@@ -20,33 +20,30 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [welcome]
 
 ### Excel-vba
 
-* [Excel-vba 开发规范.pdf](/project/04.Excel-vba)
-* [Excel-vba 开发规范.md](/doc/source/Excel-vba%20Language%20Specification.md)
+* [Excel-vba 开发规范.md](/doc/source/Database/Excel-vba%20Language%20Specification.md)
 
 
 ### HTML&CSS
 
-* [HTML&CSS 开发规范](/doc/source/HTML&CSS%20Language%20Specification.md)
-* [HTML&CSS 开发规范](/project/01.HTML&CSS) (PDF)
+* [HTML&CSS 开发规范](/doc/source/HTML&CSS/HTML&CSS%20Language%20Specification.md)
 
 
 ### Java
 
-* [阿里Java编码规范](/project/03.Java) (PDF)
+* [阿里Java编码规范](/doc/source/Java) (PDF)
 
 
 ### JavaScript
 
-* [JavaScript 语言标准 2018 Edition(Ecma-262)](/project/02.JavaScript) (English version) (PDF)
+* [JavaScript 语言标准 2018 Edition(Ecma-262)](/doc/source/JavaScript/) (English version) (PDF)
 
 
 ### 数据库
 
-* [Oracle DBA 指导规范 12c](/project/90.DB) (PDF)
-* [MySQL数据库设计规范](/project/90.DB) (PDF)
-* [MySQL运维及开发规范](/project/90.DB) (PDF)
-* [Redis开发规范](/project/90.DB) (PDF)
-
+* [MySQL数据库设计规范](/doc/source/Database/) (docx)
+* [MySQL运维及开发规范](/doc/source/Database/MySQL运维及开发规范.md)
+* [Oracle DBA 指导规范 12c](/doc/source/Database/) (PDF)
+* [Redis开发规范](/doc/source/Database/Redis开发规范.md)
 
 
 
