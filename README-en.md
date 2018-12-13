@@ -2,54 +2,59 @@
 
 *Read this in other languages: [中文](README.md).*
 
-## Catalogue
+## Intro.
+This repository has collected the development specification which is used in the software development.
 
-1. [Standard Introduce](#intro)
-2. [Profile Info.](#profile)
-3. [Directory Tree](#directory)
-    * 01.[HTML&CSS Best Practices](/project/01.HTML&CSS)
-        * [HTML&CSS Language Specification.pdf](/project/01.HTML&CSS)
-        * [HTML&CSS Language Specification.md](/doc/source/HTML&CSS%20Language%20Specification.md)
-    * 02.[JavaScript Best Practices](/02.JavaScript)
-        * [JavaScript Language Specification 2018 Edition(Ecma-262).pdf](/project/02.JavaScript)
-    * 03.[Java Best Practices](/project/03.Java)
-        * [Alibaba Java Coding Guideline.pdf](/project/03.Java)
-    * 04.[Excel-vba Best Practices](/project/04.Excel-vba)
-        * [Excel-vba Language Specification.pdf](/project/04.Excel-vba)
-        * [Excel-vba Language Specification.md](/doc/source/Excel-vba%20Language%20Specification.md)
-    * 90.[Database Best Practices](/project/90.DB)
-        * [Oracle Database Administrator's Guide 12c.pdf](/project/90.DB)
-        * [MySQL Design Specification.pdf](/project/90.DB)
-        * [MySQL Maintenace and Development Specification.pdf](/project/90.DB)
-        * [Redis Development Specification.pdf](/project/90.DB)
-4. [Contribution](#contribution)
+### How To Contribute
+
+Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [Welcome](/HOWTO.md)!
+
+## Index
+
+* [Excel-vba Specification](#Excel-vba)
+* [HTML&CSS Specification](#HTMLCSS)
+* [Java Specification](#Java)
+* [JavaScript Specification](#JavaScript)
+* [Database Specification](#database)
 
 
-<a name="intro"></a>
-## Guideline Introduce
+### Excel-vba
 
-The formulation of specification is the product of the accumulation and precipitation of our work for a long time,It helps us to accomplish heavy, complex and diverse tasks faster, better and more efficiently.
-The main purpose of our specifications is to:
+* [Excel-vba 开发规范](/doc/source/Database/Excel-vba%20Language%20Specification.md) (Chinese version)
 
-* Reduce the threshold cost of intervention for each team member;
-* Improve work efficiency and the convenience of collaborative development;
-* Highly uniform code style;
-* The guideline is used as base to help developers quickly make high-quality software products that meet the requirements.
 
-<a name="profile"></a>
-## Profile Info.
+### HTML&CSS
 
-Specification Name | Development-Specification
---------|------|
-Current Revision | v1.0 Beta
-Initiator | [bluetata(@bluetata)](https://blog.csdn.net/dietime1943)
-Contributors |  
-Date last updated | 2018.10.31
+* [HTML&CSS 开发规范](/doc/source/HTML&CSS/HTML&CSS%20Language%20Specification.md) (Chinese version)
 
-<a name="contribution"></a>
-## Contribution
 
-1. Clone and Fork the repository
-2. If you wangt to improve the repo. at first you can modify the `.md` file in the **doc/source/** directory, after you should generate a `.pdf` file by same plug-in. eg: `markdown-pdf` in Atom IDE
-3. Copy the `.pdf` file and paste it into the **/project/** directory
-4. Commits your changes and open a PR
+### Java
+
+* [阿里Java编码规范](/doc/source/Java) (Chinese version) (PDF)
+
+
+### JavaScript
+
+* [JavaScript 语言标准 2018 Edition(Ecma-262)](/doc/source/JavaScript/) (PDF)
+
+
+### database
+
+* [MySQL数据库设计规范](/doc/source/Database/) (Chinese version) (docx)
+* [MySQL运维及开发规范](/doc/source/Database/MySQL运维及开发规范.md) (Chinese version)
+* [Oracle DBA 指导规范 12c](/doc/source/Database/) (PDF)
+* [Redis开发规范](/doc/source/Database/Redis开发规范.md) (Chinese version)
+
+
+## Contributors
+<!-- ALL-CONTRIBUTORS-LIST：START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+
+<!-- ALL-CONTRIBUTORS-LIST：END -->
+
+
+## LICENSE
+
+Copyright (c) GitHub/Youchien org. All rights reserved.
+
+Each file included in this repository is licensed under the [CC BY](LICENSE) License.
