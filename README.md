@@ -7,7 +7,7 @@
 
 ### 如何参与贡献
 
-请参照 [参与贡献](/CONTRIBUTING.md). 如果你刚加入GitHub请阅读 [welcome](/HOWTO.md)!
+请参照 [参与贡献](/CONTRIBUTING.md). 如果你刚刚加入GitHub请阅读 [Welcome](/HOWTO.md)!
 
 ## 目录
 
@@ -20,7 +20,7 @@
 
 ### Excel-vba
 
-* [Excel-vba 开发规范.md](/doc/source/Database/Excel-vba%20Language%20Specification.md)
+* [Excel-vba 开发规范](/doc/source/Database/Excel-vba%20Language%20Specification.md)
 
 
 ### HTML&CSS
@@ -46,12 +46,15 @@
 * [Redis开发规范](/doc/source/Database/Redis开发规范.md)
 
 
+## 参与贡献者
+<!-- ALL-CONTRIBUTORS-LIST：START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
 
-## Reversion 信息
+<!-- ALL-CONTRIBUTORS-LIST：END -->
 
-规范名称 | Development-Best-Practices
---------|------|
-当前版本 | v2.0 Beta
-规范发起 | [bluetata(@bluetata)](https://blog.csdn.net/dietime1943)
-参与贡献 |  
-最后更新 | 12/12/2018 18:19
+
+## 开源许可
+
+Copyright (c) GitHub/Youchien org. All rights reserved.
+
+Each file included in this repository is licensed under the [CC BY](LICENSE) License.
