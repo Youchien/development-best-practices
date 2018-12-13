@@ -1,4 +1,4 @@
-#SQL Server Reporting Services Best Practices for Report Design
+# SQL Server Reporting Services Best Practices for Report Design
 
 ## 1: Display parameter selection
 
