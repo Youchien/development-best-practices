@@ -22,7 +22,6 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [Welcome]
 
 ### BI
 
-
 #### SSRS
 
   * [SQL Server Reporting Services Best Practices for Performance and Maintenance](/doc/source/BI/SSRS%20Specification-Performance&Maintenance.md)
@@ -47,7 +46,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [Welcome]
 ### JavaScript
 
 * [JavaScript 语言标准 2018 Edition(Ecma-262)](/doc/source/JavaScript/) (PDF)
-
+* [Angular.js: Advanced Design Patterns and Best Practices](https://github.com/trochette/Angular-Design-Patterns-Best-Practices)
 
 ### database
 
