@@ -21,7 +21,6 @@
 
 ### BI
 
-
 #### SSRS
 
   * [SQL Server Reporting Services Best Practices for Performance and Maintenance](/doc/source/BI/SSRS%20Specification-Performance&Maintenance.md) (English version)
@@ -46,7 +45,7 @@
 ### JavaScript
 
 * [JavaScript 语言标准 2018 Edition(Ecma-262)](/doc/source/JavaScript/) (English version) (PDF)
-
+* [Angular.js: Advanced Design Patterns and Best Practices](https://github.com/trochette/Angular-Design-Patterns-Best-Practices) (English version)
 
 ### 数据库
 
