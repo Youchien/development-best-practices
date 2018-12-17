@@ -12,8 +12,8 @@ Report Header, confidential message in the Report Footer, etc.
 
 If a common template is not used for reporting then:
 
-    * Impact on Report Performance - Nothing
-    * Impact on Report Maintenance - High
+  * Impact on Report Performance - Nothing
+  * Impact on Report Maintenance - High
 
 
 ## 2: Use a shared SSRS data source connection
@@ -31,8 +31,8 @@ connection, one change can fix all 20 reports at once.
 
 If shared data source connection is not used for reporting then:
 
-    * Impact on Report Performance - Nothing
-    * Impact on Report Maintenance - High
+  * Impact on Report Performance - Nothing
+  * Impact on Report Maintenance - High
 
 
 ## 3: Don't create unnecessary datasets in SSRS
@@ -49,8 +49,8 @@ for a parameter default value.
 
 If unnecessary datasets are created in reports then:
 
-    * Impact on Report Performance - High
-    * Impact on Report Maintenance - High
+  * Impact on Report Performance - High
+  * Impact on Report Maintenance - High
 
 
 ## 4: Don't retrieve more SQL Server data than is needed
@@ -63,8 +63,8 @@ columns which are required for the report.
 
 If query retrieves more data than required then:
 
-    Impact on Report Performance - High
-    Impact on Report Maintenance - Medium
+  * Impact on Report Performance - High
+  * Impact on Report Maintenance - Medium
 
 
 ## 5: Analyze and tune the SSRS dataset query for better performance
@@ -87,8 +87,8 @@ is filtered on the customers and the other Tablix is filtered on the products).
 
 If data filtering is done in report then:
 
-    * Impact on Report Performance - High
-    * Impact on Report Maintenance - Medium
+  * Impact on Report Performance - High
+  * Impact on Report Maintenance - Medium
 
 
 ## 7: Avoid calculated fields at the SSRS report level
@@ -100,8 +100,8 @@ load on the report server and ease of maintenance.
 
 If new fields created in report then:
 
-    * Impact on Report Performance - Medium
-    * Impact on Report Maintenance - Medium
+  * Impact on Report Performance - Medium
+  * Impact on Report Maintenance - Medium
 
 
 ## 8: Convert complex queries in SSRS into a View
@@ -124,8 +124,8 @@ make it easier to maintain.
 
 If data conversion is done in the report then:
 
-    * Impact on Report Performance - Medium
-    * Impact on Report Maintenance - Medium
+  * Impact on Report Performance - Medium
+  * Impact on Report Maintenance - Medium
 
 
 ## 10: Sort data at the T-SQL query level
@@ -139,8 +139,8 @@ data region of the tablix/matrix.
 
 If data sorted in the report then:
 
-    * Impact on Report Performance - Medium
-    * Impact on Report Maintenance - Medium
+  * Impact on Report Performance - Medium
+  * Impact on Report Maintenance - Medium
 
 
 ## 11: Set the SSRS Report Width
@@ -178,8 +178,8 @@ picker.
 
 If correct parameter data type is not used then:
 
-    * Impact on Report Performance - High
-    * Impact on Report Maintenance - Nothing
+  * Impact on Report Performance - High
+  * Impact on Report Maintenance - Nothing
 
 
 ## 15: Avoid TotalPages function in SSRS reports

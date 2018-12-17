@@ -10,7 +10,7 @@
 请参照 [参与贡献](/CONTRIBUTING.md). 如果你刚刚加入GitHub请阅读 [Welcome](/HOWTO.md)!
 
 ## 目录
-* [BI](#BI 开发规约)
+* [BI 开发规约](#BI)
   * [SSRS](#SSRS)
 * [Excel-vba 开发规约](#Excel-vba)
 * [HTML&CSS 开发规约](#HTMLCSS)

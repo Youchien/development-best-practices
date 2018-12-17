@@ -105,8 +105,8 @@ join the data, so you will have to use lookup functions.
 
 If Lookup functions are used then:
 
-    * Impact on Report Performance- High
-    * Impact on Report Maintenance- Medium
+  * Impact on Report Performance- High
+  * Impact on Report Maintenance- Medium
 
 For detailed information on Lookup functions, please check this tip.
 
@@ -118,8 +118,8 @@ these calculations better compared to the report server.
 
 If aggregation is done at report level
 
-    * Impact on Report Performance- High
-    * Impact on Report Maintenance- Low
+  * Impact on Report Performance- High
+  * Impact on Report Maintenance- Low
 
 
 ## 14: Avoid First, Last, Previous, RunningValue functions
