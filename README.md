@@ -23,8 +23,8 @@
 
 #### SSRS
 
-  * [# SQL Server Reporting Services 开发规约(性能与维护)](/doc/source/BI/SSRS%20Specification-Performance&Maintenance-zh.md)
-  * [# SQL Server Reporting Services 开发规约(报表设计)](/doc/source/BI/SSRS%20Specification-Report%20Design.md) (English version)
+  * [SQL Server Reporting Services 开发规约（性能与维护）](/doc/source/BI/SSRS%20Specification-Performance&Maintenance-zh.md)
+  * [SQL Server Reporting Services 开发规约（报表设计）](/doc/source/BI/SSRS%20Specification-Report%20Design.md) (English version)
 
 
 ### Excel-vba
