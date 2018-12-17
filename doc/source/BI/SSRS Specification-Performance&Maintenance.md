@@ -29,7 +29,6 @@ a lot of time and effort. It's possible to create a project level Shared Data
 Source and use it inside each report. If any changes occur in the data source
 connection, one change can fix all 20 reports at once.
 
-
 If shared data source connection is not used for reporting then:
 
     * Impact on Report Performance - Nothing
@@ -179,8 +178,8 @@ picker.
 
 If correct parameter data type is not used then:
 
-    * Impact on Report Performance- High
-    * Impact on Report Maintenance- Nothing
+    * Impact on Report Performance - High
+    * Impact on Report Maintenance - Nothing
 
 
 ## 15: Avoid TotalPages function in SSRS reports
