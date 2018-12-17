@@ -1,4 +1,4 @@
-# SQL Server Reporting Services Best Practices for Performance and Maintenance
+# SQL Server Reporting Services 开发规约(性能与维护)
 
 
 ## 1: 使用一个通用的SSRS模板

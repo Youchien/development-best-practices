@@ -10,7 +10,7 @@
 请参照 [参与贡献](/CONTRIBUTING.md). 如果你刚刚加入GitHub请阅读 [Welcome](/HOWTO.md)!
 
 ## 目录
-* [BI](#BI)
+* [BI](#BI 开发规约)
   * [SSRS](#SSRS)
 * [Excel-vba 开发规约](#Excel-vba)
 * [HTML&CSS 开发规约](#HTMLCSS)
@@ -23,8 +23,8 @@
 
 #### SSRS
 
-  * [SQL Server Reporting Services Best Practices for Performance and Maintenance](/doc/source/BI/SSRS%20Specification-Performance&Maintenance.md) (English version)
-  * [SQL Server Reporting Services Best Practices for Report Design](/doc/source/BI/SSRS%20Specification-Report%20Design.md) (English version)
+  * [# SQL Server Reporting Services 开发规约(性能与维护)](/doc/source/BI/SSRS%20Specification-Performance&Maintenance-zh.md)
+  * [# SQL Server Reporting Services 开发规约(报表设计)](/doc/source/BI/SSRS%20Specification-Report%20Design.md) (English version)
 
 
 ### Excel-vba
