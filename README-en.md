@@ -33,7 +33,7 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [Welcome]
 
 ### Excel-vba
 
-* [Excel-vba Development Best Practices](/doc/source/Database/Excel-vba%20Language%20Specification.md) (Chinese version)
+* [Excel-vba Development Best Practices](https://github.com/bluetata/concise-excel-vba/blob/master/CodingStandards.md)
 
 
 ### HTML&CSS

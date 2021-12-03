@@ -27,13 +27,13 @@
 
 #### SSRS
 
-  * [SQL Server Reporting Services 开发规约（性能与维护）](/doc/source/BI/SSRS%20Specification-Performance&Maintenance-zh.md)
-  * [SQL Server Reporting Services 开发规约（报表设计）](/doc/source/BI/SSRS%20Specification-Report%20Design.md) (English version)
+ * [SQL Server Reporting Services 开发规约（性能与维护）](/doc/source/BI/SSRS%20Specification-Performance&Maintenance-zh.md)
+ * [SQL Server Reporting Services 开发规约（报表设计）](/doc/source/BI/SSRS%20Specification-Report%20Design.md) (English version)
 
 
 ### Excel-vba
 
-* [Excel-vba 开发规约](/doc/source/Excel-vba%20Language%20Specification.md)
+* [Excel-vba 开发规约](https://github.com/bluetata/concise-excel-vba/blob/master/CodingStandards.md)
 
 
 ### HTML&CSS
