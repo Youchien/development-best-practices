@@ -2,12 +2,15 @@
 
 *Read this in other languages: [中文](README.md).*
 
+
 ## Intro.
 This repository has collected the development specification which is used in the software development.
+
 
 ### How To Contribute
 
 Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [Welcome](/HOWTO.md)!
+
 
 ## Index
 
@@ -30,23 +33,24 @@ Please read [CONTRIBUTING](/CONTRIBUTING.md). If you're new to Github, [Welcome]
 
 ### Excel-vba
 
-* [Excel-vba 开发规范](/doc/source/Database/Excel-vba%20Language%20Specification.md) (Chinese version)
+* [Excel-vba Development Best Practices](https://github.com/bluetata/concise-excel-vba/blob/master/CodingStandards.md)
 
 
 ### HTML&CSS
 
-* [HTML&CSS 开发规范](/doc/source/HTML&CSS/HTML&CSS%20Language%20Specification.md) (Chinese version)
+* [HTML&CSS Development Best Practices](/doc/source/HTML&CSS/HTML&CSS%20Language%20Specification.md) (Chinese version)
 
 
 ### Java
 
-* [阿里Java编码规范](/doc/source/Java) (Chinese version) (PDF)
+* [Alibaba Java Coding Guidelines](/doc/source/Java) (Chinese version) (PDF)
 
 
 ### JavaScript
 
-* [JavaScript 语言标准 2018 Edition(Ecma-262)](/doc/source/JavaScript/) (PDF)
+* [JavaScript 2018 Edition(Ecma-262)](/doc/source/JavaScript/) (PDF)
 * [Angular.js: Advanced Design Patterns and Best Practices](https://github.com/trochette/Angular-Design-Patterns-Best-Practices)
+
 
 ### database
 
